@@ -7,7 +7,7 @@ public class PruebaPuntored {
         PuntoVenta puntoDeVentaUno = new PuntoVenta();
         PuntoVenta puntoDeVentaDos = new PuntoVenta();
         
-        puntoDeVentaUno.valorPuntoVenta(concierto, 50);
+        puntoDeVentaUno.valorPuntoVenta(concierto, 100);
         puntoDeVentaDos.valorPuntoVenta(concierto, 50);
         
         puntoDeVentaUno.start();
